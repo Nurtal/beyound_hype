@@ -1,0 +1,101 @@
+ID,TEXT,LABEL
+1,"3-day-old male neonate with meconium ileus. Family history: paternal cousin with cystic fibrosis (DF508/F508del). Newborn screening IRT 210 ng/mL. Sweat chloride: 110 mmol/L. Genetic testing confirms homozygous F508del mutation. Initiated on pancreatic enzymes (lipase 3000 units/g fat) and fat-soluble vitamins (ADEK). Referred to accredited CF care center.",1
+2,"28-year-old male with CBAVD (congenital bilateral absence of vas deferens). Family history: sister CF carrier. Semen analysis: azoospermia. CFTR testing reveals compound heterozygote (R117H/7T+5T). Sweat chloride borderline at 48 mmol/L. Scheduled for testicular sperm extraction with IVF/ICSI.",1
+3,"6-month-old female with failure to thrive (weight <3rd percentile). Family history: maternal aunt with CF. Fecal elastase: 75 μg/g (severe pancreatic insufficiency). Genetic testing: G551D/G542X mutations. Started on Creon 6000 units/kg/meal and ursodeoxycholic acid. Chest CT shows early bronchiectasis.",1
+4,"19-year-old female with recurrent pancreatitis. Family history: brother with CFTR-related disorder. CFTR sequencing reveals SPINK1 variant + 5T allele. Sweat chloride 42 mmol/L. Diagnosed with CFTR-associated pancreatitis. Initiated on CFTR modulator therapy with pain reduction.",1
+5,"34-year-old male with persistent Pseudomonas aeruginosa bronchitis. Family history: child with CF. Nasal potential difference: -45 mV (abnormal). Extended CFTR panel shows D1152H/3849+10kbC>T mutations. Initiated on tobramycin inhalation solution. FEV1 improved from 65% to 72% predicted.",1
+6,"Newborn female with hypochloremic metabolic alkalosis. Family history: CF in second cousin. Genetic testing: W1282X/F508del. Sweat test deferred due to age. Stool elastase: 50 μg/g. Started on sodium chloride supplementation (4 mEq/kg/day) and hydrolyzed formula.",1
+7,"14-year-old male with nasal polyposis and pansinusitis. Family history: CFTR variants in parents. Extended CFTR analysis shows complex allele (R347P/5T-TG12). Diagnosed with CFTR-related metabolic syndrome. Sinus surgery planned with postoperative dornase alfa irrigation.",1
+8,"22-year-old female with ABPA (allergic bronchopulmonary aspergillosis). Family history: uncle with CF. IgE 1500 IU/mL, Aspergillus precipitins positive. CFTR testing: 2184insA/ΔF508. Initiated on prednisone and itraconazole. CFTR modulator therapy added.",1
+9,"8-week-old male with hypoproteinemia and edema. Family history: sibling with CF. Genetic testing: 3120+1G>A/ΔF508. Fecal fat: 25 g/24h (normal <7). Nutritional support with MCT oil and albumin infusions. Liver ultrasound shows hepatic steatosis.",1
+10,"17-year-old male with diabetes mellitus and recurrent pneumothoraces. Family history: CF in maternal grandmother. CFTR testing: G85E/R553X. Mixed-type diabetes confirmed (C-peptide low). Insulin pump therapy initiated. CFRD management protocol applied.",1
+11,"5-year-old female with biliary cirrhosis. Family history: CF carrier parents. Genetic testing: homozygous ΔF508. MRCP shows biliary sludge. Ursodeoxycholic acid dose increased. Liver transplant evaluation initiated.",1
+12,"31-year-old female with infertility and chronic rhinosinusitis. Family history: CFTR variants in family. CFTR testing: A455E/5T-TG11. Sinus cultures grow Staphylococcus aureus. Initiated on hypertonic saline irrigations and nasal steroids.",1
+13,"7-month-old male with rectal prolapse. Family history: CF in uncle. Sweat chloride: 98 mmol/L. Genetic testing: 2789+5G>A/ΔF508. Abdominal ultrasound shows meconium pseudocyst. Surgical consult obtained.",1
+14,"25-year-old male with bronchiectasis and nontuberculous mycobacteria. Family history: CF carrier sibling. CFTR testing: R334W/7T-TG12. Sputum culture: Mycobacterium avium complex. Initiated on clarithromycin/ethambutol/rifampin triple therapy.",1
+15,"12-year-old female with distal intestinal obstruction syndrome. Family history: CFTR-related disorder in cousin. Genetic testing: 3272-26A>G/ΔF508. Managed with gastrografin enema and PEG 3350. Pancreatic enzyme dose adjusted.",1
+16,"40-year-old male with chronic pancreatitis and diabetes. Family history: multiple CF carriers. CFTR/SPINK1 testing: N34S/5T-TG12. Fecal elastase: 120 μg/g. Initiated on insulin and pain management protocol.",1
+17,"9-year-old male with clubbing and persistent crackles. Family history: CF in father. Bronchoscopy reveals purulent secretions. CFTR testing: 3849+10kbC>T/R117H-7T. Airway clearance regimen intensified with oscillating PEP device.",1
+18,"29-year-old female with portal hypertension. Family history: CFTR mutations in family. Genetic testing: ΔF508/1717-1G>A. Liver biopsy shows focal biliary cirrhosis. Transjugular portosystemic shunt considered.",1
+19,"3-year-old male with vitamin K deficiency bleeding. Family history: sibling with CF. Genetic testing: 621+1G>T/ΔF508. Coagulation studies: INR 4.2. Vitamin K supplementation protocol initiated with monitoring.",1
+20,"16-year-old female with allergic bronchopulmonary aspergillosis. Family history: CF in aunt. CFTR testing: 1898+1G>A/ΔF508. Serum IgE >2000 IU/mL. Omalizumab therapy added to treatment regimen.",1
+21,"23-year-old male with recurrent epididymitis. Family history: CFTR carrier parents. Genetic testing: R117H/5T-TG12. Scrotal ultrasound shows absent vas deferens. Reproductive counseling provided.",1
+22,"11-month-old female with hypochloremia (Cl- 88 mmol/L). Family history: CF in cousin. Genetic testing: 3659delC/ΔF508. Sodium chloride supplements adjusted based on urinary electrolytes.",1
+23,"27-year-old female with chronic rhinosinusitis and nasal polyps. Family history: CFTR variants. Extended testing: D579G/5T-TG13. Sinus CT shows complete opacification. Functional endoscopic sinus surgery planned.",1
+24,"34-year-old male with recurrent pneumothoraces. Family history: CF carrier status unknown. CFTR testing: 2143delT/ΔF508. Chest tube inserted. Pleurodesis considered for recurrent cases.",1
+25,"8-year-old male with biliary atresia-like presentation. Family history: CF in sibling. Genetic testing: ΔF508/G551D. Intraoperative cholangiogram shows patent bile ducts. Revised diagnosis: CF-related hepatobiliary disease.",1
+26,"19-year-old female with CFRD (Cystic Fibrosis Related Diabetes). Family history: multiple CF cases. Continuous glucose monitoring shows postprandial hyperglycemia. Insulin-to-carb ratio adjusted with dietitian input.",1
+27,"6-year-old male with persistent Staphylococcus aureus pneumonia. Family history: CF carrier parents. CFTR testing: 394delTT/ΔF508. Airway clearance protocol intensified with high-frequency chest wall oscillation.",1
+28,"31-year-old male with chronic pancreatitis. Family history: CFTR mutations in pedigree. Genetic testing: CFTR/SPINK1 compound heterozygote. Fecal elastase: 80 μg/g. Pancreatic enzyme replacement optimized.",1
+29,"14-year-old female with advanced lung disease. Family history: sibling with CF. FEV1 38% predicted. CFTR testing: ΔF508/ΔF508. Referred for lung transplant evaluation. IV antibiotic course initiated.",1
+30,"2-month-old male with hypoproteinemia/edema. Family history: CF in uncle. Genetic testing: 3905insT/ΔF508. Initiated on elemental formula and pancreatic enzymes. Albumin infusion protocol started.",1
+31,"21-year-old female with recurrent DVT and CFTR variants. Family history: CFTR-RD in cousin. Genetic testing: CFTR/Proc Global 5T. Thrombophilia workup negative. Anticoagulation therapy planned.",1
+32,"10-year-old male with CF arthropathy. Family history: CF in father. Synovial fluid analysis: non-inflammatory. Initiated on NSAIDs and physical therapy. Bone density scan shows osteopenia.",1
+33,"38-year-old male with chronic hepatic congestion. Family history: CF-related liver disease. Genetic testing: ΔF508/3120+1G>A. MR elastography shows advanced fibrosis. Hepatology follow-up arranged.",1
+34,"17-year-old female with CF-related bone disease. Family history: multiple CF cases. DEXA Z-score -2.8. Initiated on bisphosphonate therapy. Vitamin D levels optimized.",1
+35,"5-year-old male with CF-related GERD. Family history: CF carrier parents. pH-impedance study shows severe acid exposure. Nissen fundoplication considered pending nutritional status.",1
+36,"28-year-old male with CF-related renal disease. Family history: CFTR variants. 24h urine: hyperoxaluria. Initiated on potassium citrate. Renal ultrasound shows nephrocalcinosis.",1
+37,"13-year-old female with CF-related anxiety/depression. Family history: psychosocial burden of CF. PHQ-9 score 18. CBT initiated with CF-specialized psychologist. Family support services engaged.",1
+38,"45-year-old female with CF-associated arthritis. Family history: late CF diagnosis in sibling. Synovial biopsy: non-specific inflammation. Trial of hydroxychloroquine initiated.",1
+39,"9-year-old male with CF-related DIOS. Family history: intestinal complications in CF. Abdominal X-ray shows fecal loading. Gastrografin challenge successful. Maintenance PEG started.",1
+40,"24-year-old female with CF-related pneumothorax. Family history: CFTR variants. Chest tube output >500 mL/day. VATS pleurodesis planned. Pre-op respiratory optimization ongoing.",1
+41,"7-year-old male with CF-related rhinosinusitis. Family history: chronic sinusitis in pedigree. Sinus cultures: Pseudomonas aeruginosa. Tobramycin sinus irrigations initiated.",1
+42,"32-year-old male with CF-related CFRD. Family history: multiple endocrine manifestations. HbA1c 8.7%. Closed-loop insulin pump system initiated. Ophthalmology screening arranged.",1
+43,"18-year-old female with CF-related osteoporosis. Family history: fragility fractures. Z-score -3.1 lumbar spine. Denosumab therapy initiated. Fall prevention protocol implemented.",1
+44,"4-year-old male with CF-related liver disease. Family history: portal hypertension in CF. Transient elastography: 18 kPa. Ursodeoxycholic acid dose doubled. Fat-soluble vitamin levels monitored.",1
+45,"29-year-old female with CF-related fertility issues. Family history: CBAVD in brother. AMH 0.8 ng/mL. Oocyte cryopreservation discussed. Reproductive endocrinology referral made.",1
+46,"11-year-old male with CF-related CFRD. Family history: glucose intolerance in CF. Continuous glucose monitoring initiated. Insulin sensitivity factor adjusted for enzyme timing.",1
+47,"36-year-old male with CF-associated arthropathy. Family history: inflammatory arthritis in CF. Rheumatoid factor negative. Trial of sulfasalazine initiated with modest improvement.",1
+48,"15-year-old female with CF-related allergic bronchopulmonary aspergillosis. Family history: atopy in CF. Serum IgE 2500 IU/mL. Anti-IgE therapy prior authorization submitted.",1
+49,"8-month-old female with CF-related failure to thrive. Family history: severe CF phenotype. Gastrostomy tube placement planned. Nighttime feeding regimen optimized.",1
+50,"27-year-old male with CF-related portal hypertension. Family history: variceal bleeding in CF. Upper endoscopy shows grade II varices. Non-selective beta-blocker initiated.",1
+51,"6-week-old male with hypertrophic pyloric stenosis. Family history: paternal history of pyloric stenosis. Ultrasound shows pylorus thickness 5.2 mm. Successful pyloromyotomy performed.",0
+52,"34-year-old female with multiple sclerosis exacerbation. MRI shows new periventricular lesions. Initiated on ocrelizumab. Family history: autoimmune diseases in first-degree relatives.",0
+53,"62-year-old male with alcoholic cirrhosis. MELD-Na score 18. Family history: alcoholism in sibling. Paracentesis removes 5L ascitic fluid. Initiated on spironolactone/furosemide.",0
+54,"5-year-old female with Kawasaki disease. Coronary artery Z-scores +2.5. IVIG and aspirin administered. Family history: autoimmune disorders in pedigree.",0
+55,"28-year-old male with testicular torsion. Doppler ultrasound shows absent flow. Emergent orchiopexy performed. Family history: undescended testes in cousin.",0
+56,"47-year-old female with breast cancer (ER+/HER2-). Family history: BRCA negative. Lumpectomy with sentinel node biopsy performed. Adjuvant radiation planned.",0
+57,"9-month-old male with intussusception. Ultrasound shows target sign. Successful air reduction. Family history: no GI disorders.",0
+58,"55-year-old male with acute gout flare. Synovial fluid shows urate crystals. Colchicine and prednisone initiated. Family history: paternal gout.",0
+59,"32-year-old female with ectopic pregnancy. β-hCG 4500 IU/L. Laparoscopic salpingectomy performed. Family history: infertility in aunt.",0
+60,"68-year-old male with COPD exacerbation. ABG: pH 7.28, pCO2 68 mmHg. Non-invasive ventilation initiated. Family history: heavy smokers.",0
+61,"12-year-old male with type 1 diabetes. DKA resolved with insulin drip. Family history: T1DM in sibling. Diabetes education initiated.",0
+62,"44-year-old female with rheumatoid arthritis. Anti-CCP 250 U/mL. Methotrexate started. Family history: autoimmune disorders.",0
+63,"7-year-old female with acute lymphoblastic leukemia. Induction chemotherapy initiated. Family history: no hematologic malignancies.",0
+64,"29-year-old male with Crohn's flare. Colonoscopy shows deep ulcerations. Ustekinumab dose escalated. Family history: IBD in mother.",0
+65,"63-year-old female with NSTEMI. Troponin I 8.2 ng/mL. Cardiac catheterization shows 70% LAD stenosis. Stent placed. Family history: CAD in siblings.",0
+66,"18-month-old female with febrile seizure. EEG normal. Family history: febrile seizures in parent. Discharged with seizure precautions.",0
+67,"50-year-old male with hepatitis C (genotype 1a). FibroScan 14.2 kPa. Initiated on glecaprevir/pibrentasvir. Family history: IV drug use in brother.",0
+68,"36-year-old female with migraine with aura. MRI brain normal. Started on erenumab. Family history: maternal migraines.",0
+69,"57-year-old male with BPH. IPSS score 22. Tamsulosin initiated. Family history: prostate cancer in father.",0
+70,"8-year-old male with nephrotic syndrome (minimal change). Prednisone 60 mg/m² initiated. Family history: atopy in parents.",0
+71,"43-year-old female with lupus nephritis. Renal biopsy class IV. Mycophenolate mofetil started. Family history: SLE in aunt.",0
+72,"31-year-old male with HIV (CD4 280). Initiated on Biktarvy. Family history: no immunodeficiency disorders.",0
+73,"65-year-old female with ovarian cancer. CA-125 850 U/mL. Debulking surgery planned. Family history: BRCA negative.",0
+74,"14-year-old male with scoliosis (Cobb angle 32°). Bracing initiated. Family history: idiopathic scoliosis in sister.",0
+75,"52-year-old male with pancreatic adenocarcinoma. Whipple procedure planned. Family history: no GI cancers.",0
+76,"23-year-old female with anorexia nervosa. BMI 15.3. Family-based therapy initiated. Family history: anxiety disorders.",0
+77,"60-year-old male with Parkinson's disease. Started on carbidopa-levodopa. Family history: essential tremor in father.",0
+78,"5-year-old female with bacterial meningitis. CSF WBC 1200/mm³. Ceftriaxone and vancomycin initiated. Family history: no CNS infections.",0
+79,"47-year-old male with OSA. AHI 42/hour. CPAP prescribed. Family history: obesity in pedigree.",0
+80,"33-year-old female with endometriosis. Laparoscopy confirms lesions. GnRH agonist initiated. Family history: maternal dysmenorrhea.",0
+81,"69-year-old male with bladder cancer (T2N0M0). TURBT performed. BCG therapy planned. Family history: no urologic cancers.",0
+82,"10-year-old female with Turner syndrome (45,X). Growth hormone initiated. Family history: short stature in pedigree.",0
+83,"58-year-old female with Hashimoto's thyroiditis. TSH 12 mIU/L. Levothyroxine adjusted. Family history: autoimmune thyroid disease.",0
+84,"27-year-old male with traumatic brain injury. ICP monitoring initiated. Family history: no neurologic disorders.",0
+85,"44-year-old female with sarcoidosis. Chest CT shows bilateral hilar adenopathy. Prednisone started. Family history: no lung diseases.",0
+86,"6-year-old male with hemophilia A (factor VIII <1%). Prophylactic emicizumab initiated. Family history: X-linked pattern.",0
+87,"71-year-old male with Alzheimer's dementia. MMSE 18/30. Donepezil started. Family history: late-onset dementia.",0
+88,"35-year-old female with PCOS. Rotterdam criteria met. Metformin and OCP initiated. Family history: insulin resistance.",0
+89,"13-year-old male with osteosarcoma. Neoadjuvant chemotherapy planned. Family history: no bone tumors.",0
+90,"49-year-old male with alcoholic hepatitis. MELD 23. Prednisolone initiated. Family history: alcohol use disorder.",0
+91,"30-year-old female with Graves' disease. TRAb 8.5 IU/L. Methimazole started. Family history: hyperthyroidism.",0
+92,"66-year-old female with macular degeneration. Anti-VEGF injections planned. Family history: AMD in mother.",0
+93,"19-year-old male with ulcerative colitis. Colonoscopy shows pancolitis. Vedolizumab initiated. Family history: no IBD.",0
+94,"53-year-old male with esophageal varices. Band ligation performed. Family history: alcoholic cirrhosis.",0
+95,"7-year-old female with celiac disease. EMA positive. Gluten-free diet initiated. Family history: autoimmune disorders.",0
+96,"42-year-old female with fibromyalgia. Widespread pain index 16/19. Duloxetine started. Family history: chronic pain syndromes.",0
+97,"75-year-old male with aortic stenosis (peak gradient 68 mmHg). TAVR evaluation initiated. Family history: bicuspid valve in son.",0
+98,"21-year-old female with sickle cell crisis. Hb 6.8 g/dL. Exchange transfusion performed. Family history: SCT trait in parents.",0
+99,"48-year-old male with melanoma (Breslow 2.1 mm). Wide local excision performed. Family history: dysplastic nevus syndrome.",0
+100,"59-year-old female with rheumatoid arthritis. Anti-CCP 200 U/mL. Triple therapy initiated. Family history: autoimmune diseases.",0
