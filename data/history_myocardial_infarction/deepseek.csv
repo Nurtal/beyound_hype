@@ -1,0 +1,99 @@
+ID,TEXT,LABEL
+1,"68-year-old male with a history of anterior STEMI (2019) treated with primary PCI to LAD. Currently presents with recurrent angina. ECG shows T-wave inversions in anterior leads. High-sensitivity troponin I elevated at 35 ng/L (normal <15). Coronary angiography reveals in-stent restenosis. Rotational atherectomy performed with drug-coated balloon angioplasty. Discharged on dual antiplatelet therapy (aspirin + ticagrelor) and ranolazine.",1
+2,"55-year-old female with past NSTEMI (2020) managed medically. Admitted with decompensated heart failure. Echocardiogram shows global hypokinesis (EF 35%). BNP 1200 pg/mL. Initiated on sacubitril/valsartan and spironolactone. Cardiac MRI reveals mid-wall fibrosis. Referred for ICD implantation for primary prevention.",1
+3,"72-year-old male with prior CABG (LIMA-LAD, SVG-OM1/RCA) in 2015. Presents with unstable angina. CT coronary angiogram shows patent grafts but native vessel progression. Fractional flow reserve (FFR) of 0.72 in distal RCA. Medical optimization with ivabradine added to beta-blocker therapy.",1
+4,"48-year-old smoker with inferior STEMI (2021) complicated by VF arrest. Successful PCI to RCA. Now with post-MI pericarditis (Dressler's syndrome). CRP 45 mg/L. Echocardiogram shows small pericardial effusion. Treated with colchicine and NSAIDs with symptom resolution.",1
+5,"63-year-old diabetic female with silent MI detected on routine stress test (fixed inferior defect). Coronary CTA reveals 70% stenosis in RCA. LDL 160 mg/dL despite atorvastatin. PCSK9 inhibitor initiated. Enrolled in cardiac rehabilitation program.",1
+6,"51-year-old male with MINOCA (2022) confirmed by cardiac MRI showing subepicardial LGE. Autoimmune workup positive for anti-cardiolipin antibodies. Long-term anticoagulation considered. Repeat angiography shows normal coronaries. Ongoing chest pain managed with ranolazine.",1
+7,"79-year-old female with recurrent MIs (2008, 2015, 2020). Severe ischemic cardiomyopathy (EF 20%). Admitted for HeartMate III LVAD evaluation. Right heart catheterization: PCWP 25 mmHg, CI 1.8 L/min/m². Multidisciplinary team recommends destination therapy.",1
+8,"44-year-old male with spontaneous coronary artery dissection (SCAD) of LAD (Type 2). Managed conservatively. Follow-up CMR at 6 months shows residual apical thrombus. Continued anticoagulation with apixaban. Genetic testing negative for connective tissue disorders.",1
+9,"67-year-old male with cardiogenic shock post-STEMI. IABP inserted during PCI. Swan-Ganz catheter shows CI 1.6 L/min/m². Initiated on milrinone drip. Palliative care consultation for advanced directive discussion.",1
+10,"58-year-old female with type 2 MI secondary to septic shock (2021). Now with takotsubo cardiomyopathy triggered by emotional stress. Echocardiogram shows apical ballooning (EF 40%). Managed with beta-blockers and ACE inhibitors.",1
+11,"36-year-old male with familial hypercholesterolemia (LDL 320 mg/dL). Acute STEMI from spontaneous plaque rupture. LDL apheresis initiated. Genetic testing confirms LDLR mutation. Evolocumab added to maximal statin therapy.",1
+12,"62-year-old male with prior PCI to LCx (2018). New onset atrial fibrillation with RVR. CHA₂DS₂-VASc score 4. Transesophageal echo excludes LAA thrombus. Successful electrical cardioversion. Anticoagulation continued with dabigatran.",1
+13,"53-year-old female with vasospastic angina and non-obstructive CAD. Acetylcholine provocation test positive. Treated with calcium channel blocker and nitrate patch. Implantable loop recorder placed for arrhythmia monitoring.",1
+14,"71-year-old male with ischemic mitral regurgitation post-MI. Transcatheter mitral valve repair (MitraClip) performed. Post-procedure echo shows moderate residual MR. NYHA class improved from III to II.",1
+15,"49-year-old male with stent thrombosis 3 days post-PCI. Emergency thrombectomy performed. Confirmed clopidogrel resistance (CYP2C19*2 carrier). Switched to prasugrel with VerifyNow PRU <60.",1
+16,"65-year-old female with coronary calcium score 1200 Agatston units. PET MPI reveals extensive ischemia. Heart team declines revascularization. Enhanced external counterpulsation therapy initiated.",1
+17,"57-year-old male with chronic total occlusion of RCA. Hybrid approach with antegrade/retrograde techniques. Successful recanalization with drug-eluting stent. Post-PCI FFR 0.92. Complete revascularization achieved.",1
+18,"40-year-old pregnant female (32 weeks) with NSTEMI. Managed with medical therapy (heparin infusion). Multidisciplinary delivery planning. Postpartum coronary angiography planned.",1
+19,"73-year-old male with cardiac amyloidosis and pseudo-infarct pattern on ECG. CMR shows diffuse LGE and elevated ECV. Serum free light chains positive. Hematology consult for AL amyloidosis workup.",1
+20,"54-year-old male with radiation-induced CAD 15 years post-Hodgkin's therapy. Complex PCI to protected left main. IVUS guidance used for optimal stent expansion. Surveillance CTA planned at 6 months.",1
+21,"61-year-old female with spontaneous coronary artery embolism. TEE shows mobile LV thrombus. Initiated on warfarin with INR target 2.5-3.5. Repeat echo at 3 months shows thrombus resolution.",1
+22,"47-year-old male with cocaine-induced STEMI. Managed with benzodiazepines and verapamil. Coronary angiography shows diffuse vasospasm. Substance abuse counseling initiated.",1
+23,"69-year-old female with coronary ectasia and slow flow phenomenon. Antiplatelet therapy adjusted to cilostazol. Microvascular angina confirmed by CFR 1.6 via thermodilution.",1
+24,"52-year-old male with heparin-induced thrombocytopenia post-MI. Transitioned to argatroban during PCI. Platelet factor 4 antibody positive. Avoidance of all heparin products documented.",1
+25,"58-year-old female with cardiac sarcoidosis and myocardial scar. FDG-PET shows active inflammation. Initiated on prednisone 40 mg daily. Implantable loop recorder placed for arrhythmia detection.",1
+26,"63-year-old male with diabetic autonomic neuropathy. Silent myocardial ischemia detected on Holter monitoring. SPECT MPI shows large anterior defect. Medical management optimized.",1
+27,"45-year-old female with spontaneous coronary artery hematoma. Conservative management with beta-blockers. Follow-up OCT at 6 weeks shows complete resolution.",1
+28,"71-year-old male with porcelain aorta. High-risk PCI via radial access with cerebral protection device. Post-procedure neuro assessment normal. Discharged on clopidogrel lifelong.",1
+29,"49-year-old male with myocardial bridging of LAD. Surgical unroofing performed after failed medical therapy. Post-op CTA confirms adequate decompression. Symptoms resolved.",1
+30,"66-year-old female with contrast-induced nephropathy post-PCI. Serum creatinine peaked at 2.8 mg/dL. Renal recovery with IV hydration and NAC protocol. Dialysis avoided.",1
+31,"54-year-old male with coronary cameral fistula. Percutaneous coil embolization performed. Post-procedure echo shows reduced left-to-right shunt. Follow-up CMR planned.",1
+32,"72-year-old female with calcified nodule causing STEMI. Orbital atherectomy followed by DES implantation. OCT confirms optimal stent apposition. DAPT extended to 3 years.",1
+33,"43-year-old male with anomalous coronary origin. Surgical reimplantation of RCA performed. Post-op stress test negative for ischemia. Cleared for competitive athletics.",1
+34,"68-year-old male with cardiac allograft vasculopathy 8 years post-transplant. IVUS shows diffuse intimal hyperplasia. Everolimus dose increased. Retransplant evaluation initiated.",1
+35,"57-year-old female with coronary microvascular dysfunction. Invasive CFR 1.3 confirmed. Initiated on ranolazine and nicorandil. Cardiac PET shows improved MBF post-therapy.",1
+36,"50-year-old male with left main trifurcation lesion. DK crush technique used with final kissing balloon. FFR of all branches >0.85. Clinical trial enrollment offered.",1
+37,"62-year-old female with cholesterol emboli syndrome post-PCI. Eosinophilia and livedo reticularis noted. Conservative management with statin intensification.",1
+38,"55-year-old male with myocardial infarction with non-obstructive coronaries (MINOCA). Cardiac MRI confirms mid-wall LGE. Screening for myocarditis and amyloidosis negative.",1
+39,"47-year-old female with spontaneous coronary artery dissection (SCAD) of OM2. Conservative management chosen. Follow-up CTA at 3 months shows complete healing.",1
+40,"73-year-old male with iatrogenic coronary dissection during diagnostic angiography. Emergency stent placement seals entry tear. TIMI 3 flow restored.",1
+41,"59-year-old female with coronary artery fistula to pulmonary artery. Transcatheter closure with Amplatzer device. Post-procedure shunt fraction reduced to <10%.",1
+42,"64-year-old male with bioresorbable vascular scaffold (BVS) thrombosis. OCT shows malapposition. Balloon angioplasty with DCB performed. DAPT extended indefinitely.",1
+43,"52-year-old female with cardiac syndrome X. Coronary reactivity testing confirms microvascular dysfunction. Cognitive behavioral therapy initiated for chest pain management.",1
+44,"68-year-old male with coronary perforation during PCI. Covered stent deployed successfully. Pericardiocentesis drained 300 mL blood. Hemodynamic stability achieved.",1
+45,"56-year-old female with coronary vasospasm induced by 5-FU chemotherapy. Alternative regimen with capecitabine initiated. Calcium channel blocker prophylaxis prescribed.",1
+46,"63-year-old male with coronary-subclavian steal syndrome post-CABG. Endovascular stenting of subclavian stenosis. Symptoms resolved. Follow-up duplex confirms patency.",1
+47,"49-year-old female with myocardial infarction secondary to coronary embolism from PFO. Percutaneous closure device implanted. Anticoagulation continued for 6 months.",1
+48,"71-year-old male with radiation-induced CAD. Complex PCI to ostial LAD using IVUS guidance. Adjuvant radiotherapy shield used during procedure.",1
+49,"58-year-old female with spontaneous coronary artery intramural hematoma. Conservative management with beta-blockers. Complete resolution on 3-month follow-up CTA.",1
+50,"65-year-old male with coronary artery aneurysm post-Kawasaki disease. Anticoagulation with warfarin. Surveillance CTA shows stable 2.5 cm RCA aneurysm.",1
+51,"42-year-old female with acute onset thunderclap headache. CT angiography reveals aneurysmal SAH. Neurosurgical clipping performed. Nimodipine protocol initiated.",0
+52,"37-year-old male with necrotizing fasciitis of left leg. Emergent radical debridement. Cultures grow group A streptococcus. IV clindamycin and penicillin G started.",0
+53,"29-year-old female with status epilepticus. EEG shows generalized periodic discharges. Intubated and loaded with lacosamide. Continuous midazolam infusion required.",0
+54,"68-year-old male with acute mesenteric ischemia. Exploratory laparotomy reveals necrotic small bowel. Extensive resection with jejunostomy creation.",0
+55,"5-year-old male with DKA: glucose 620 mg/dL, pH 7.10. Continuous insulin infusion and electrolyte replacement. Transitioned to subcutaneous insulin after resolution.",0
+56,"53-year-old female with tension pneumothorax post-lung biopsy. Needle decompression followed by chest tube insertion. Chest X-ray confirms lung re-expansion.",0
+57,"44-year-old male with acute angle-closure glaucoma. IOP 52 mmHg. Emergency peripheral iridotomy performed. Timolol/dorzolamide drops prescribed.",0
+58,"72-year-old female with Fournier's gangrene. Surgical debridement reveals necrotizing infection extending to perineum. Vacuum-assisted closure applied.",0
+59,"19-year-old male with traumatic aortic dissection (Stanford B). TEVAR procedure performed. Post-op CTA shows successful exclusion of false lumen.",0
+60,"63-year-old female with hepatic encephalopathy. Serum ammonia 180 μmol/L. Lactulose and rifaximin initiated. Protein restriction diet ordered.",0
+61,"34-year-old female with ectopic pregnancy rupture. Emergency laparoscopy confirms right tubal pregnancy. Salpingectomy performed. β-hCG trend monitored.",0
+62,"58-year-old male with acute limb ischemia. Angiography shows popliteal embolism. Fogarty thrombectomy successful. Post-op heparin infusion started.",0
+63,"7-year-old female with intussusception. Ultrasound reveals target sign. Successful air enema reduction. Observed for 24 hours.",0
+64,"49-year-old male with myasthenic crisis. Negative inspiratory force -25 cmH2O. IVIG initiated. Non-invasive ventilation prevents intubation.",0
+65,"82-year-old female with hip fracture and severe osteoporosis. Cephalomedullary nailing performed. Post-op DVT prophylaxis with enoxaparin.",0
+66,"31-year-old female with thyroid storm: HR 140, temp 40°C. Methimazole, propranolol, and hydrocortisone administered. Plasmapheresis considered.",0
+67,"55-year-old male with acute pancreatitis. CT severity index 5. Necrosectomy postponed for walled-off necrosis. Enteral feeding via NJ tube.",0
+68,"43-year-old female with Addisonian crisis: Na 118 mEq/L, K 6.2 mEq/L. IV hydrocortisone and fluid resuscitation. Cosyntropin test confirms diagnosis.",0
+69,"28-year-old male with crush injury to hand. Compartment pressures 45 mmHg. Emergent fasciotomies performed. Orthoplastics follow-up arranged.",0
+70,"66-year-old male with esophageal perforation post-EGD. Chest CT shows mediastinal air. Emergency thoracotomy with primary repair.",0
+71,"59-year-old female with acute cholangitis. ERCP reveals CBD stones. Sphincterotomy with stent placement. Blood cultures positive for E. coli.",0
+72,"12-year-old male with testicular torsion. Doppler ultrasound shows absent flow. Emergent orchiopexy performed. Salvage confirmed intraoperatively.",0
+73,"73-year-old female with NSTEMI and active GI bleeding. Cardiac catheterization deferred. Managed medically with heparin drip and PPIs.",0
+74,"38-year-old female with HELLP syndrome at 34 weeks. Emergency C-section performed. Platelet transfusion administered. Postpartum recovery uneventful.",0
+75,"51-year-old male with acute gout flare. Synovial fluid analysis confirms urate crystals. Colchicine and prednisone taper initiated. Uric acid 9.8 mg/dL.",0
+76,"62-year-old male with community-acquired pneumonia. CURB-65 score 3. IV ceftriaxone and azithromycin started. Oxygen via high-flow nasal cannula.",0
+77,"29-year-old female with anaphylaxis to shellfish. Epinephrine IM administered. Observation for biphasic reaction. Prescribed epinephrine auto-injector.",0
+78,"67-year-old male with acute diverticulitis. Hinchey II classification. CT-guided drainage of abscess. Elective colectomy planned.",0
+79,"44-year-old female with spinal epidural abscess. Laminectomy performed. Cultures grow MSSA. IV oxacillin for 6 weeks.",0
+80,"8-year-old male with acute appendicitis. Alvarado score 9. Laparoscopic appendectomy performed. Pathology confirms suppurative appendicitis.",0
+81,"57-year-old female with ruptured AAA. Emergency EVAR performed. Post-op colonic ischemia detected. Second-look laparotomy required.",0
+82,"33-year-old male with traumatic brain injury. ICP monitoring shows pressures 25 mmHg. Hyperosmolar therapy initiated. Decompressive craniectomy considered.",0
+83,"61-year-old female with pulmonary fibrosis exacerbation. HRCT shows honeycombing. Initiated on pirfenidone. Oxygen requirement increased to 6 L/min.",0
+84,"39-year-old female with lupus nephritis flare. Renal biopsy: class IV. Cyclophosphamide pulses planned. Anti-dsDNA 1:1280.",0
+85,"54-year-old male with acute hepatitis B. ALT 1850 U/L. Entecavir started. Coagulation studies normal. Close monitoring for hepatic failure.",0
+86,"27-year-old female with ovarian torsion. Ultrasound shows absent vascular flow. Diagnostic laparoscopy confirms torsion. Oophoropexy performed.",0
+87,"70-year-old male with CBD stricture. ERCP with SpyGlass cholangioscopy. Biopsy confirms adenocarcinoma. Stent placed for drainage.",0
+88,"45-year-old male with rhabdomyolysis. CK 150,000 U/L. IV hydration and bicarbonate drip. Urine output maintained at 100 mL/h.",0
+89,"58-year-old female with TTP. ADAMTS13 activity <5%. Daily plasma exchange initiated. Caplacizumab added to regimen.",0
+90,"36-year-old male with burns (30% TBSA). Fluid resuscitation per Parkland formula. Silver sulfadiazine applied. Tangential excision planned.",0
+91,"63-year-old female with SBO. CT shows transition point in ileum. Nasogastric decompression. Surgical consult recommends laparotomy.",0
+92,"41-year-old female with acute pancreatitis. MRCP shows gallstones. Cholecystectomy planned after resolution. Lipase 2500 U/L.",0
+93,"29-year-old male with testicular cancer. Radical orchiectomy performed. Pathology: seminoma. Surveillance protocol initiated.",0
+94,"67-year-old male with urosepsis. Blood cultures positive for ESBL E. coli. Meropenem initiated. Source control with nephrostomy.",0
+95,"52-year-old female with breast abscess. Incision and drainage performed. Cultures show MRSA. Trimethoprim-sulfamethoxazole prescribed.",0
+96,"34-year-old female with PID. Cervical motion tenderness on exam. IV ceftriaxone and doxycycline started. IUD removed.",0
+97,"59-year-old male with esophageal variceal bleed. Band ligation performed. Octreotide drip continued. Child-Pugh score B.",0
+98,"43-year-old female with Cushing's syndrome. Midnight cortisol 22 μg/dL. MRI pituitary shows 8 mm adenoma.",0

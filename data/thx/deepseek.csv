@@ -1,0 +1,101 @@
+ID,TEXT,LABEL
+1,"45-year-old male with left calf swelling and pain after long-haul flight. Doppler ultrasound confirms popliteal DVT. Started on apixaban.",1
+2,"32-year-old postpartum woman with sudden dyspnea. CT angiography shows segmental PE. Low-molecular-weight heparin initiated.",1
+3,"68-year-old pancreatic cancer patient with asymptomatic portal vein thrombosis on routine CT. Anticoagulation with dalteparin.",1
+4,"29-year-old female with chronic headaches. MRV reveals cerebral venous thrombosis. Testing positive for factor V Leiden.",1
+5,"54-year-old dialysis patient with right internal jugular catheter thrombosis. Treated with catheter removal and fondaparinux.",1
+6,"22-year-old trauma patient with femoral artery thrombosis post-compartment syndrome. Emergency thrombectomy performed.",1
+7,"37-year-old male with unprovoked iliofemoral DVT. Hypercoagulable workup pending. Transitioned to warfarin.",1
+8,"63-year-old female with ovarian cancer and upper extremity DVT. Port-a-cath patent. Started on edoxaban.",1
+9,"40-year-old male smoker with mesenteric vein thrombosis. Abdominal CT shows ischemic bowel signs. Surgical consult obtained.",1
+10,"58-year-old COVID-19 ICU patient with bilateral PE. High-flow oxygen and therapeutic heparin infusion.",1
+11,"26-year-old oral contraceptive user with retinal vein occlusion. Anticoagulation initiated after neuro-ophthalmology consult.",1
+12,"71-year-old male with phlegmasia cerulea dolens. Emergent venous thrombectomy and thrombolysis.",1
+13,"33-year-old pregnant patient (28 weeks) with left iliac DVT. Monitoring with anti-Xa levels on enoxaparin.",1
+14,"49-year-old male with heparin-induced thrombocytopenia and new arterial thrombosis. Direct thrombin inhibitor started.",1
+15,"60-year-old male with mechanical mitral valve and prosthetic valve thrombosis. Emergency cardiac surgery planned.",1
+16,"24-year-old IV drug user with septic pulmonary emboli. Blood cultures positive for MRSA. IV antibiotics and anticoagulation.",1
+17,"55-year-old female with antiphospholipid syndrome and recurrent miscarriages. New adrenal vein thrombosis detected.",1
+18,"38-year-old male with extensive VTE following testosterone therapy. Hematology consult recommends prolonged anticoagulation.",1
+19,"67-year-old stroke patient with left ventricular thrombus on echocardiogram. Dual antiplatelet therapy contraindicated.",1
+20,"30-year-old female with Budd-Chiari syndrome. Transjugular intrahepatic portosystemic shunt (TIPS) procedure scheduled.",1
+21,"43-year-old male with May-Thurner anatomy and recurrent left leg DVT. Iliac vein stent placement performed.",1
+22,"59-year-old chemotherapy patient with upper extremity DVT from PICC line. Line removed and rivaroxaban started.",1
+23,"34-year-old female with nephrotic syndrome and renal vein thrombosis. Serum albumin 1.8 g/dL. Anticoagulation adjusted.",1
+24,"52-year-old male with polycythemia vera and splenic vein thrombosis. Phlebotomy and aspirin therapy initiated.",1
+25,"27-year-old trauma patient with traumatic aortic thrombosis. Vascular surgery team activated for emergency repair.",1
+26,"61-year-old female with massive PE and right heart strain on echo. Systemic thrombolysis with alteplase administered.",1
+27,"36-year-old male with paradoxical embolism through PFO. DVT detected in lower extremity. PFO closure recommended.",1
+28,"70-year-old male with arterial graft thrombosis post-CABG. Emergent return to operating room.",1
+29,"31-year-old female with superficial thrombophlebitis progressing to DVT. Compression ultrasound positive. Anticoagulation escalated.",1
+30,"48-year-old male with advanced liver cirrhosis and portal vein thrombosis. MELD score 22. Transplant evaluation ongoing.",1
+31,"19-year-old female with ovarian hyperstimulation syndrome and pelvic vein thrombosis. Fertility treatment complications.",1
+32,"57-year-old male with glioblastoma and cerebral arterial thrombosis. Neurosurgery consult recommends palliative care.",1
+33,"42-year-old female with SLE flare and multiple microthromboses on skin biopsy. High-dose steroids and plasmapheresis.",1
+34,"65-year-old male with heparin resistance during vascular surgery. Transitioned to bivalirudin intraoperatively.",1
+35,"28-year-old male with Klippel-Trénaunay syndrome and extensive venous malformations. New thrombus in lateral chest vein.",1
+36,"53-year-old female with cervical cancer and radiation-induced iliac artery thrombosis. Endovascular intervention planned.",1
+37,"39-year-old male with frostbite-related digital artery thrombosis. Intra-arterial thrombolysis attempted.",1
+38,"72-year-old female with atrial fibrillation and left atrial appendage thrombus. Cardioversion postponed.",1
+39,"44-year-old male with testicular cancer and IVC thrombosis extending to renal veins. Oncology staging ongoing.",1
+40,"23-year-old female with Behçet's disease and pulmonary artery aneurysms. New thrombus in right upper lobe artery.",1
+41,"50-year-old male with essential thrombocythemia (platelet 1.2M/μL) and cerebrovascular thrombosis. Hydroxyurea started.",1
+42,"66-year-old female with heparin-induced skin necrosis at injection sites. Alternative anticoagulation with danaparoid.",1
+43,"35-year-old male with COVID-19 vaccine-induced thrombotic thrombocytopenia. IVIG and non-heparin anticoagulants.",1
+44,"58-year-old female with Trousseau's syndrome. Multiple microthrombi found in pancreatic adenocarcinoma workup.",1
+45,"29-year-old male with hemolytic anemia and recurrent DVT. Testing for paroxysmal nocturnal hemoglobinuria.",1
+46,"62-year-old male with pacemaker lead-associated tricuspid valve thrombosis. Transesophageal echo confirms diagnosis.",1
+47,"41-year-old female with catastrophic antiphospholipid syndrome. Multi-organ thrombosis requiring ICU admission.",1
+48,"33-year-old male with frostbite-associated deep vein thrombosis. Hyperbaric oxygen therapy considered.",1
+49,"69-year-old female with Waldenström macroglobulinemia and hyperviscosity-related thrombosis. Plasmapheresis initiated.",1
+50,"37-year-old female with uterine arteriovenous malformation and pelvic thrombosis. Interventional radiology consult.",1
+51,"58-year-old male with crushing chest pain radiating to left arm. ECG shows ST elevation in inferior leads. Emergent cardiac catheterization reveals RCA occlusion. Successful stent placement.",0
+52,"72-year-old female with sudden right-sided facial droop and aphasia. MRI confirms acute left MCA ischemic stroke. NIHSS score 14. Thrombectomy not feasible due to late presentation.",0
+53,"6-year-old male with high fever, nuchal rigidity, and petechial rash. LP reveals WBC 1200/mm³ (90% neutrophils). Ceftriaxone started for suspected meningococcal meningitis.",0
+54,"45-year-old diabetic male with necrotizing fasciitis of left thigh. Emergent surgical debridement and broad-spectrum antibiotics.",0
+55,"33-year-old female with severe epigastric pain. Lipase 1500 U/L. CT shows pancreatic necrosis. Managed with NPO and aggressive IV fluids.",0
+56,"8-year-old male with RLQ pain and rebound tenderness. Ultrasound confirms appendicitis. Laparoscopic appendectomy performed.",0
+57,"67-year-old male with coffee-ground emesis and melena. Endoscopy reveals bleeding gastric ulcer. Hemostasis achieved with clips.",0
+58,"29-year-old asthmatic with status asthmaticus unresponsive to bronchodilators. Intubated and transferred to ICU for mechanical ventilation.",0
+59,"34-week pregnant female with HELLP syndrome: BP 180/110, platelets 45k, AST 480 U/L. Emergency C-section performed.",0
+60,"82-year-old female with pathological femur fracture from metastatic breast cancer. Orthopedic stabilization planned.",0
+61,"5-month-old female with respiratory distress and wheezing. RSV-positive. Treated with high-flow nasal cannula and suctioning.",0
+62,"50-year-old male with sudden vision loss in right eye. Fundoscopy reveals CRAO. Immediate ocular massage and anterior chamber paracentesis.",0
+63,"63-year-old female with toxic megacolon from C. difficile infection. Emergency subtotal colectomy performed.",0
+64,"27-year-old male with testicular torsion. Doppler ultrasound shows absent blood flow. Emergent orchiopexy performed.",0
+65,"55-year-old male with acute limb ischemia: right foot pulseless and cyanotic. Angiography shows popliteal artery embolism.",0
+66,"40-year-old female with ruptured ectopic pregnancy. Emergency laparoscopy reveals hemoperitoneum. Left salpingectomy performed.",0
+67,"70-year-old male with acute diverticulitis and perforation. Hartmann's procedure performed for fecal peritonitis.",0
+68,"19-year-old female with diabetic ketoacidosis: glucose 620 mg/dL, pH 7.15. Insulin drip and electrolyte replacement initiated.",0
+69,"44-year-old male with Guillain-Barré syndrome progressing to respiratory failure. Plasmapheresis and mechanical ventilation.",0
+70,"3-year-old male with intussusception. Air enema reduction successful under fluoroscopic guidance.",0
+71,"61-year-old female with acute cholangitis. ERCP shows CBD stone. Stent placed with antibiotics coverage.",0
+72,"35-year-old male with comminuted tibia fracture from motorcycle accident. External fixation applied prior to ORIF.",0
+73,"52-year-old female with myasthenic crisis. IVIG initiated with respiratory monitoring in ICU.",0
+74,"68-year-old male with ruptured AAA. Emergency endovascular repair performed. Vasopressors required post-op.",0
+75,"7-year-old female with acute glomerulonephritis: hematuria, edema, hypertension. Renal biopsy planned.",0
+76,"43-year-old male with acute angle-closure glaucoma. IOP 48 mmHg. Emergency iridotomy performed.",0
+77,"59-year-old female with massive upper GI bleed from esophageal varices. Balloon tamponade and octreotide drip.",0
+78,"31-year-old female with thyroid storm: HR 140, temp 104°F, agitated. PTU, beta-blockers, and hydrocortisone administered.",0
+79,"66-year-old male with tension pneumothorax post-lung biopsy. Needle decompression followed by chest tube.",0
+80,"12-year-old male with DKA: glucose 480 mg/dL, ketones 4+. Insulin protocol initiated with careful potassium monitoring.",0
+81,"57-year-old female with acute lithium toxicity: confusion, tremor, creatinine 2.4 mg/dL. Hemodialysis initiated.",0
+82,"48-year-old male with Fournier's gangrene. Broad-spectrum antibiotics and emergent surgical debridement.",0
+83,"73-year-old female with acute mesenteric ischemia. Exploratory laparotomy reveals non-viable bowel. Palliative care consult.",0
+84,"25-year-old male with traumatic brain injury and expanding epidural hematoma. Emergent craniotomy performed.",0
+85,"62-year-old male with acute pulmonary edema secondary to ACS. BiPAP and IV diuretics administered.",0
+86,"34-year-old female with eclampsia: generalized tonic-clonic seizures at 36 weeks. Magnesium sulfate infusion and delivery.",0
+87,"9-year-old male with septic arthritis of hip joint. Surgical drainage and IV antibiotics initiated.",0
+88,"51-year-old male with acute alcohol withdrawal delirium. CIWA protocol with benzodiazepines and restraints.",0
+89,"77-year-old female with hip fracture and cardiac clearance issues. Spinal anesthesia for hemiarthroplasty.",0
+90,"28-year-old male with near-drowning incident. Pulmonary edema managed with CPAP and diuretics.",0
+91,"63-year-old male with acute exacerbation of COPD. ABG shows respiratory acidosis. Non-invasive ventilation initiated.",0
+92,"42-year-old female with acute adrenal crisis. Hydrocortisone bolus and fluid resuscitation.",0
+93,"55-year-old male with perforated peptic ulcer. Laparoscopic repair performed with omental patch.",0
+94,"8-month-old female with dehydration from rotavirus gastroenteritis. IV rehydration and electrolyte correction.",0
+95,"69-year-old female with NSTEMI: troponin 8.2 ng/mL. Managed medically with dual antiplatelets and heparin.",0
+96,"36-year-old male with rhabdomyolysis from statin use: CK 25,000 U/L. Aggressive hydration and alkalinization.",0
+97,"58-year-old female with acute hepatic encephalopathy. Lactulose and rifaximin initiated.",0
+98,"44-year-old male with orbital cellulitis post-sinusitis. IV antibiotics and ENT consult.",0
+99,"31-year-old female with anaphylaxis from peanut exposure. Epinephrine IM and airway management.",0
+100,"53-year-old male with acute gout flare: swollen red MTP joint. Colchicine and prednisone administered.",0
